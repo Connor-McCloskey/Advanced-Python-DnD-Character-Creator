@@ -1,0 +1,21 @@
+Name: Syl'Varri von Helkatra de Faladrost 
+
+Race: Tiefling 
+
+Class: Monk 
+
+Stats:
+Intelligence: 17
+Wisdom: 13
+Charisma:  7
+Constitution: 12
+Dexterity: 10
+Strength: 15 
+
+Modifiers:
+Intelligence: 3
+Wisdom: 1
+Charisma:  -1
+Constitution: 1
+Dexterity: 0
+Strength: 2

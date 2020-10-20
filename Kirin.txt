@@ -1,0 +1,21 @@
+Name: Kirin 
+
+Race: Tabaxi 
+
+Class: Warlock 
+
+Stats:
+Intelligence: 17
+Wisdom: 15
+Charisma:  8
+Constitution: 15
+Dexterity: 10
+Strength: 6 
+
+Modifiers:
+Intelligence: 3
+Wisdom: 2
+Charisma:  -1
+Constitution: 2
+Dexterity: 0
+Strength: -2

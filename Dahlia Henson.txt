@@ -1,0 +1,21 @@
+Name: Dahlia Henson 
+
+Race: Firbolg 
+
+Class: Rogue 
+
+Stats:
+Intelligence: 11
+Wisdom: 13
+Charisma:  18
+Constitution: 10
+Dexterity: 13
+Strength: 12 
+
+Modifiers:
+Intelligence: 0
+Wisdom: 1
+Charisma:  4
+Constitution: 0
+Dexterity: 1
+Strength: 1
